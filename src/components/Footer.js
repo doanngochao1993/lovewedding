@@ -7,7 +7,7 @@ function Footer () {
         <div className='row'>
           <div className='col-md-12 text-center'>
             <h2>
-              <a href='/'>
+              <a href='#'>
                 <img src={Logo} alt='' />
                 <span>
                   Ngọc Quý <small>&</small> Ngọc Hảo

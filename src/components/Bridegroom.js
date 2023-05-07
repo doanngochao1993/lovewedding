@@ -20,7 +20,7 @@ function Bridegroom () {
                   <h6>
                     Nguyễn Thị Ngọc Quý<i className='ti-heart'></i>
                   </h6>{' '}
-                  <span>Cô dâu</span>
+                  <span>The Bride</span>
                   {/* <p>
                     Olivia fringilla dui at elit finibus viverra nec a lacus
                     seda themo the miss druane semper sollicitudin non the
@@ -60,7 +60,7 @@ function Bridegroom () {
                   <h6>
                     Đoàn Ngọc Hảo <i className='ti-heart'></i>
                   </h6>{' '}
-                  <span>Chú rễ</span>
+                  <span>The Groom</span>
                   {/* <p>
                     Enrico fringilla dui at elit finibus viverra nec a lacus
                     seda themo the miss druane semper sollicitudin non the

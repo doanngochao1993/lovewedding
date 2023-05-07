@@ -23,7 +23,7 @@ function Sidebar () {
       </a>
       <aside id='oliven-aside'>
         <div className='oliven-logo'>
-          <a href='/' onClick={closeSideBar}>
+          <a href='#' onClick={closeSideBar}>
             <img src={Logo} alt='' />
             <span>
               Ngọc Quý <small>&</small> Ngọc Hảo
