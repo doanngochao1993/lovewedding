@@ -11,7 +11,7 @@ function Header () {
         <div className='row'>
           <div className='col-md-12 text-center caption'>
             <h1 className='animate-box' data-animate-effect='fadeInUp'>
-              Ngọc Quý & Ngọc Hảo
+              Ngọc Hảo & Ngọc Quý
             </h1>
             <h5 className='animate-box' data-animate-effect='fadeInUp'>
               14 January, 2024 – Hồ Chí Minh

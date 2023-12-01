@@ -21,27 +21,6 @@ function Bridegroom () {
                     Nguyễn Thị Ngọc Quý<i className='ti-heart'></i>
                   </h6>{' '}
                   <span>The Bride</span>
-                  {/* <p>
-                    Olivia fringilla dui at elit finibus viverra nec a lacus
-                    seda themo the miss druane semper sollicitudin non the
-                    fermen.
-                  </p> */}
-                  <div className='social'>
-                    <div className='full-width'>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-facebook'></i>{' '}
-                      </a>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-twitter'></i>{' '}
-                      </a>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-instagram'></i>{' '}
-                      </a>
-                    </div>
-                  </div>
                 </div>
               </div>
             </div>
@@ -60,29 +39,7 @@ function Bridegroom () {
                   <h6>
                     Đoàn Ngọc Hảo <i className='ti-heart'></i>
                   </h6>{' '}
-                  <br></br>
                   <span>The Groom</span>
-                  {/* <p>
-                    Enrico fringilla dui at elit finibus viverra nec a lacus
-                    seda themo the miss druane semper sollicitudin non the
-                    fermen.
-                  </p> */}
-                  <div className='social'>
-                    <div className='full-width'>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-facebook'></i>{' '}
-                      </a>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-twitter'></i>{' '}
-                      </a>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-instagram'></i>{' '}
-                      </a>
-                    </div>
-                  </div>
                 </div>
               </div>
             </div>
@@ -93,9 +50,13 @@ function Bridegroom () {
             className='col-md-12 text-center animate-box'
             data-animate-effect='fadeInUp'
           >
-            <h3 className='oliven-couple-title'>Are getting married!</h3>
+            <h3 className='oliven-couple-title'>Vu Quy</h3>
             <h4 className='oliven-couple-subtitle'>
-              January 14 ,2024 — Nhà Hàng Tiệc Cưới Ngọc Trâm - 948 Nguyễn Văn Quá, Đông Hưng Thuận, Q.12, Tp.HCM
+              January 13 - 9:30am ,2024 — Tổ 2, ấp Cẩm Sơn, xã Xuân Mỹ, huyện Cẩm Mỹ, tỉnh Đồng Nai
+            </h4>
+            <h3 className='oliven-couple-title'>Tân Hôn</h3>
+            <h4 className='oliven-couple-subtitle'>
+              January 14 - 9:30am ,2024 — Nhà Hàng Tiệc Cưới Ngọc Trâm - 948 Nguyễn Văn Quá, phường Đông Hưng Thuận, Q.12, Tp.HCM
             </h4>
           </div>
         </div>

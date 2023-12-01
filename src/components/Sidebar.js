@@ -60,7 +60,7 @@ function Sidebar () {
           {' '}
           <span className='separator'></span>
           <p>
-            Ngọc Quý & Ngọc Hảo
+            Ngọc Hảo & Ngọc Quý
             <br />
             14 January 2024, Hồ Chí Minh
           </p>
