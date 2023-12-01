@@ -20,7 +20,7 @@ function App() {
         <Countdown />
         {/* <Story /> */}
         <Seeyou />
-        <Organization />
+        {/* <Organization /> */}
         <Gallery />
         <Where />
         <RSVP />

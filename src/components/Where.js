@@ -14,7 +14,7 @@ function Where () {
           </div>
         </div>
         <div className='row'>
-          <div className='item col-12 col-md-4'>
+          <div className='item col-12 col-md-6'>
             <div className='whenwhere-img'>
               {' '}
               <img src={where1} alt='' />
@@ -25,11 +25,11 @@ function Where () {
                 <i className='ti-location-pin'></i> 140/21B ấp 3, Đông Thạnh, Hóc Môn, Hồ Chí Minh, Việt Nam
               </p>
               <p>
-                <i className='ti-time'></i> <span>9:00am </span>
+                <i className='ti-time'></i> <span>9:30am </span>
               </p>
             </div>
           </div>
-          <div className='item col-12 col-md-4'>
+          <div className='item col-12 col-md-6'>
             <div className='whenwhere-img'>
               {' '}
               <img src={where2} alt='' />
@@ -37,29 +37,14 @@ function Where () {
             <div className='content'>
               <h5>Weddding Party</h5>
               <p>
-                <i className='ti-location-pin'></i> Diamond Place - 15A Hồ Văn Huê, Phú Nhuận, Hồ Chí Minh, Việt Nam
+                <i className='ti-location-pin'></i> Nhà Hàng Tiệc Cưới Ngọc Trâm - 948 Nguyễn Văn Quá, Đông Hưng Thuận, Q.12, Tp.HCM
               </p>
               <p>
-                <i className='ti-time'></i> <span>11:30am</span>
+                <i className='ti-time'></i> <span>11:00am</span>
               </p>
             </div>
           </div>
-          <div className='item col-12 col-md-4'>
-            <div className='whenwhere-img'>
-              {' '}
-              <img src={where3} alt='' />
-            </div>
-            <div className='content'>
-              <h5>Accomodations</h5>
-              <p>
-                <i className='ti-direction-alt'></i> Hotel and distance from
-                wedding party restaurant:
-              </p>
-              <p>
-                <i className='ti-direction'></i> The William Vale (7 min)
-              </p>
-            </div>
-          </div>
+          
         </div>
       </div>
     </div>

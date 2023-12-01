@@ -42,9 +42,9 @@ function Sidebar () {
             {/* <li>
               <a href='#story'>Our Story</a>
             </li> */}
-            <li>
+            {/* <li>
               <a href='#organization' onClick={closeSideBar}>Organization</a>
-            </li>
+            </li> */}
             <li>
               <a href='#gallery' onClick={closeSideBar}>Gallery</a>
             </li>

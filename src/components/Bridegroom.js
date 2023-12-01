@@ -1,5 +1,5 @@
 import React from 'react'
-import Bride from '../assets/images/bride.JPG'
+import Bride from '../assets/images/bride.jpg'
 import Groom from '../assets/images/groom.JPG'
 function Bridegroom () {
   return (
@@ -60,6 +60,7 @@ function Bridegroom () {
                   <h6>
                     Đoàn Ngọc Hảo <i className='ti-heart'></i>
                   </h6>{' '}
+                  <br></br>
                   <span>The Groom</span>
                   {/* <p>
                     Enrico fringilla dui at elit finibus viverra nec a lacus
@@ -94,7 +95,7 @@ function Bridegroom () {
           >
             <h3 className='oliven-couple-title'>Are getting married!</h3>
             <h4 className='oliven-couple-subtitle'>
-              January 14 ,2024 — Diamond Place - 15A Hồ Văn Huê, Phú Nhuận, Hồ Chí Minh
+              January 14 ,2024 — Nhà Hàng Tiệc Cưới Ngọc Trâm - 948 Nguyễn Văn Quá, Đông Hưng Thuận, Q.12, Tp.HCM
             </h4>
           </div>
         </div>

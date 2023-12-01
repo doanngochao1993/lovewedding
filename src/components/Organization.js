@@ -15,33 +15,42 @@ function Organization () {
             <h2 className='custom-font numb'>01</h2>
             <h6 className='title'>Ceremony</h6>
             <p>
-              Delta tristiu the jusone duise vitae diam neque nivami mis est
-              augue artine aringilla the at elit finibus vivera.
+            140/21B ấp 3, Đông Thạnh, Hóc Môn, Hồ Chí Minh, Việt Nam
             </p>
+            <br></br>
+            <br></br>
+            <p>9:30am</p>
           </div>
           <div className='col-md-3 item-box'>
             <h2 className='custom-font numb'>02</h2>
             <h6 className='title'>Check in</h6>
             <p>
-              Delta tristiu the jusone duise vitae diam neque nivami mis est
-              augue artine aringilla the at elit finibus vivera.
+            Nhà Hàng Tiệc Cưới Ngọc Trâm - 948 Nguyễn Văn Quá, Đông Hưng Thuận, Q.12, Tp.HCM
             </p>
+            <br></br>
+            <p>11:00am</p>
           </div>
           <div className='col-md-3 item-box'>
             <h2 className='custom-font numb'>03</h2>
             <h6 className='title'>Cake Cutting</h6>
             <p>
-              Delta tristiu the jusone duise vitae diam neque nivami mis est
-              augue artine aringilla the at elit finibus vivera.
             </p>
+            <p>
+            Nhà Hàng Tiệc Cưới Ngọc Trâm - 948 Nguyễn Văn Quá, Đông Hưng Thuận, Q.12, Tp.HCM
+            </p>
+            <br></br>
+            <p>12:00</p>
           </div>
           <div className='col-md-3 item-box'>
             <h2 className='custom-font numb'>04</h2>
             <h6 className='title'>Party</h6>
             <p>
-              Delta tristiu the jusone duise vitae diam neque nivami mis est
-              augue artine aringilla the at elit finibus vivera.
             </p>
+            <p>
+            Nhà Hàng Tiệc Cưới Ngọc Trâm - 948 Nguyễn Văn Quá, Đông Hưng Thuận, Q.12, Tp.HCM
+            </p>
+            <br></br>
+            <p>12:00</p>
           </div>
         </div>
       </div>

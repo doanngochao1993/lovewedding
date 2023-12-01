@@ -5,6 +5,9 @@ import gallery3 from '../assets/images/3.jpg'
 import gallery4 from '../assets/images/4.jpg'
 import gallery5 from '../assets/images/5.jpg'
 import gallery6 from '../assets/images/6.jpg'
+import gallery7 from '../assets/images/7.jpg'
+import gallery8 from '../assets/images/8.jpg'
+import gallery9 from '../assets/images/9.jpg'
 function Gallery () {
   return (
     <div id='gallery' className='section-padding'>
@@ -110,6 +113,57 @@ function Gallery () {
                   {' '}
                   <img
                     src={gallery6}
+                    className='img-fluid mx-auto d-block'
+                    alt=''
+                  />{' '}
+                </div>
+                <div className='gallery-detail'>
+                  <h4 className='mb-0'>Wedding Party</h4>{' '}
+                </div>
+              </div>
+            </a>
+          </div>
+          <div className='col-md-4 gallery-item party'>
+            <a href='#whenwhere' className='img-zoom'>
+              <div className='gallery-box'>
+                <div className='gallery-img'>
+                  {' '}
+                  <img
+                    src={gallery7}
+                    className='img-fluid mx-auto d-block'
+                    alt=''
+                  />{' '}
+                </div>
+                <div className='gallery-detail'>
+                  <h4 className='mb-0'>Wedding Party</h4>{' '}
+                </div>
+              </div>
+            </a>
+          </div>
+          <div className='col-md-4 gallery-item ceremony'>
+            <a href='#whenwhere' className='img-zoom'>
+              <div className='gallery-box'>
+                <div className='gallery-img'>
+                  {' '}
+                  <img
+                    src={gallery8}
+                    className='img-fluid mx-auto d-block'
+                    alt=''
+                  />{' '}
+                </div>
+                <div className='gallery-detail'>
+                  <h4 className='mb-0'>Wedding Ceremony</h4>{' '}
+                </div>
+              </div>
+            </a>
+          </div>
+          <div className='col-md-4 gallery-item party'>
+            <a href='#whenwhere' className='img-zoom'>
+              <div className='gallery-box'>
+                <div className='gallery-img'>
+                  {' '}
+                  <img
+                    src={gallery9}
                     className='img-fluid mx-auto d-block'
                     alt=''
                   />{' '}
