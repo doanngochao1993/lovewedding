@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wedding-hao-quy/static/css/main.956d1db4.chunk.css",
-    "main.js": "/wedding-hao-quy/static/js/main.d8494e7d.chunk.js",
-    "main.js.map": "/wedding-hao-quy/static/js/main.d8494e7d.chunk.js.map",
+    "main.js": "/wedding-hao-quy/static/js/main.a88fd595.chunk.js",
+    "main.js.map": "/wedding-hao-quy/static/js/main.a88fd595.chunk.js.map",
     "runtime-main.js": "/wedding-hao-quy/static/js/runtime-main.aea991b3.js",
     "runtime-main.js.map": "/wedding-hao-quy/static/js/runtime-main.aea991b3.js.map",
     "static/css/2.450bcdb5.chunk.css": "/wedding-hao-quy/static/css/2.450bcdb5.chunk.css",
@@ -40,6 +40,6 @@
     "static/css/2.450bcdb5.chunk.css",
     "static/js/2.437322f3.chunk.js",
     "static/css/main.956d1db4.chunk.css",
-    "static/js/main.d8494e7d.chunk.js"
+    "static/js/main.a88fd595.chunk.js"
   ]
 }
