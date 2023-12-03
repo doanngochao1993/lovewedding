@@ -403,6 +403,14 @@ input[type=radio]:checked:before {
     background-attachment: fixed;
     background-position: center;
 }
+
+@media (max-width: 960px) {
+    .bg-fixed {
+        background-attachment: initial;
+        background-position: center;
+    }  
+}
+
 .bg-cover {
     background-size: cover !important;
 }

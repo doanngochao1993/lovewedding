@@ -38,7 +38,7 @@ function Countdown () {
   return (
     <div
       id='countdown'
-      className='section-padding bg-img'
+      className='section-padding bg-img bg-fixed'
       data-background='images/banner-1.jpg'
     >
       <div className='container'>
