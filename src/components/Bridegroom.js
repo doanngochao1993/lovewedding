@@ -1,6 +1,6 @@
 import React from 'react'
 import Bride from '../assets/images/bride.jpg'
-import Groom from '../assets/images/groom.JPG'
+import Groom from '../assets/images/groom.jpg'
 function Bridegroom () {
   return (
     <div id='couple' className='bridegroom clear section-padding bg-pink'>
@@ -52,11 +52,11 @@ function Bridegroom () {
           >
             <h3 className='oliven-couple-title'>Vu Quy</h3>
             <h4 className='oliven-couple-subtitle'>
-              January 13 - 9:30am ,2024 — Tổ 2, ấp Cẩm Sơn, xã Xuân Mỹ, huyện Cẩm Mỹ, tỉnh Đồng Nai
+              January 13, 2024 — Tư gia - Tổ 2, ấp Cẩm Sơn, xã Xuân Mỹ, huyện Cẩm Mỹ, tỉnh Đồng Nai
             </h4>
             <h3 className='oliven-couple-title'>Tân Hôn</h3>
             <h4 className='oliven-couple-subtitle'>
-              January 14 - 9:30am ,2024 — Nhà Hàng Tiệc Cưới Ngọc Trâm - 948 Nguyễn Văn Quá, phường Đông Hưng Thuận, Q.12, Tp.HCM
+              January 14, 2024 — Nhà Hàng Tiệc Cưới Ngọc Trâm - 948 Nguyễn Văn Quá, Đông Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh
             </h4>
           </div>
         </div>

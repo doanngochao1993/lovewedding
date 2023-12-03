@@ -1,10 +1,7 @@
 import React from 'react'
 import Logo from '../assets/images/logo.png'
 import vcb from '../assets/images/VCB.jpg'
-import momo from '../assets/images/Momo.jpg'
-import { useState } from "react";
-import Modal from 'react-modal';
-import Popup from 'reactjs-popup';
+import acb from '../assets/images/acb.png'
 import 'reactjs-popup/dist/index.css';
 
 const customStyles = {
@@ -61,7 +58,7 @@ function Footer() {
                 <img src={Logo} alt='' />
                 {/* <div onClick={handleTextClick}> */}
                 <span >
-                Ngọc Hảo <small>&</small> Ngọc Qúy
+                  Ngọc Hảo <small>&</small> Ngọc Qúy
                 </span>
                 {/* <Popup isOpen={QrShow} onClose={closePopup} /> */}
                 {/* </div> */}
@@ -69,17 +66,23 @@ function Footer() {
             </h2>
             <p className='copyright'>January 14, 2024 – Hóc Môn, Hồ Chí Minh</p>
             <div>
-              <Popup trigger=
-                {<button>Open QR code </button>}  position="center"
-              >
-                
-                <div>
-                  <img src={momo} alt='' />
-                  <div><p>0908321107 Doan Ngoc Hao</p></div>
-                  <img src={vcb} alt='' />
-                  <div><p>0501000116099 VCB-Doan Ngoc Hao</p></div>
+              <div className='row'>
+                <h1><span className='section-head col-md-12 text-center'>HỘP MỪNG CƯỚI</span></h1>
+                <div className='col-md-6 text-center' >
+                  <img src={vcb} style={{height:'200px',width:'200px'}}></img>
+                  <h4>Ngân hàng: VCB</h4>     
+                  <h4>Số tài khoản: 0501000116099</h4>
+                  <h4>Tên tài khoản: Đoàn Ngọc Hảo</h4>
+                  <h4>Số điện thoại/Momo: 0908321107</h4>   
                 </div>
-              </Popup>
+                <div className='col-md-6 text-center'>
+                  <img src={acb} style={{height:'200px',width:'200px'}}></img>
+                  <h4>Ngân hàng: ACB</h4>     
+                  <h4>Số tài khoản: 248279689</h4>
+                  <h4>Tên tài khoản: Nguyễn Thị Ngọc Quý</h4>
+                  <h4>Số điện thoại/Momo: 0962910182</h4>
+                </div>
+              </div>
             </div>
           </div>
         </div>

@@ -401,6 +401,7 @@ input[type=radio]:checked:before {
 }
 .bg-fixed {
     background-attachment: fixed;
+    background-position: center;
 }
 .bg-cover {
     background-size: cover !important;
@@ -1545,6 +1546,7 @@ body.slide .oliven-nav-toggle {
 /* ===== Footer style ===== */
 #rsvp {
     background-image: url(./assets/images/banner-2.jpg);
+    background-position: center;
 }
 .footer2 {
     padding: 90px 30px;
