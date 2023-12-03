@@ -4,7 +4,7 @@ function Seeyou () {
   return (
     <div
       id='seeyou'
-      className='seeyou section-padding bg-img bg-fixed'
+      className='seeyou section-padding bg-img'
     >
       <div className='container'>
         <div className='row'>

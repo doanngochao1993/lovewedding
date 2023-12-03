@@ -9,10 +9,10 @@ function Header () {
     >
       <div className='container'>
         <div className='row'>
-          <div className='col-md-12 text-center caption'>
-            <h1 className='animate-box' data-animate-effect='fadeInUp'>
+          <div className='col-md-12 text-center caption'  style={{transform: 'translateY(80%)'}}>
+            <h2 className='animate-box' data-animate-effect='fadeInUp' style={{fontFamily: 'Alex Brush', fontWeight:400,margin:'0 0 15px 0',color:'#fff'}}>
               Ngọc Hảo & Ngọc Quý
-            </h1>
+            </h2>
             <h5 className='animate-box' data-animate-effect='fadeInUp'>
               14 January, 2024 – Hồ Chí Minh
             </h5>
