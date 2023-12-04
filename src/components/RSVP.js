@@ -19,8 +19,8 @@ function RSVP () {
         <div className='row justify-content-center'>
           <div className='col-md-6 bg-white p-40'>
             {' '}
-            <span className='oliven-title-meta text-center'>Will you attend?</span>
-            <h2 className='oliven-title text-center'>R.S.V.P</h2>
+            <span className='oliven-title-meta text-center'>Hãy cho chúng mình biết bạn có tham dự được không?</span>
+            {/* <h2 className='oliven-title text-center'>R.S.V.P</h2> */}
             <br />
             <form method='post' className='row' onSubmit={handleClick}>
               <div className='col-md-12'>
@@ -28,7 +28,7 @@ function RSVP () {
                   <input
                     type='text'
                     className='form-control'
-                    placeholder='Name'
+                    placeholder='Tên'
                     required
                   />{' '}
                 </div>
@@ -43,7 +43,7 @@ function RSVP () {
                   <input
                     type='text'
                     className='form-control'
-                    placeholder='Guests'
+                    placeholder='Số lượng khách'
                     required
                   />{' '}
                 </div>
@@ -56,13 +56,13 @@ function RSVP () {
                     cols='30'
                     rows='7'
                     className='form-control'
-                    placeholder='Message'
+                    placeholder='Lời nhắn'
                   ></textarea>
                 </div>
               </div>
               <div className='col-md-12'>
                 <div className='form-group'>
-                  <input type='submit' className='btn buttono' value='SEND' />{' '}
+                  <input type='submit' className='btn buttono' value='Gửi' />{' '}
                 </div>
               </div>
             </form>

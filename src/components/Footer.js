@@ -64,7 +64,7 @@ function Footer() {
                 {/* </div> */}
               </a>
             </h2>
-            <p className='copyright'>January 14, 2024 – Hóc Môn, Hồ Chí Minh</p>
+            <p className='copyright'>14 tháng 1 năm 2024 – Hóc Môn, Hồ Chí Minh</p>
             <div>
               <div className='row'>
                 <h1><span className='section-head col-md-12 text-center'>HỘP MỪNG CƯỚI</span></h1>

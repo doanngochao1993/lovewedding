@@ -20,7 +20,7 @@ function Bridegroom () {
                   <h6>
                     Nguyễn Thị Ngọc Quý<i className='ti-heart'></i>
                   </h6>{' '}
-                  <span>The Bride</span>
+                  <span>Cô Dâu</span>
                 </div>
               </div>
             </div>
@@ -39,7 +39,7 @@ function Bridegroom () {
                   <h6>
                     Đoàn Ngọc Hảo <i className='ti-heart'></i>
                   </h6>{' '}
-                  <span>The Groom</span>
+                  <span>Chú Rễ</span>
                 </div>
               </div>
             </div>
@@ -52,11 +52,11 @@ function Bridegroom () {
           >
             <h3 className='oliven-couple-title'>Vu Quy</h3>
             <h4 className='oliven-couple-subtitle'>
-              January 13, 2024 — Tư gia - Tổ 2, ấp Cẩm Sơn, xã Xuân Mỹ, huyện Cẩm Mỹ, tỉnh Đồng Nai
+              13 tháng 1 năm 2024 — Tư gia - Tổ 2, ấp Cẩm Sơn, xã Xuân Mỹ, huyện Cẩm Mỹ, tỉnh Đồng Nai
             </h4>
             <h3 className='oliven-couple-title'>Tân Hôn</h3>
             <h4 className='oliven-couple-subtitle'>
-              January 14, 2024 — Nhà Hàng Tiệc Cưới Ngọc Trâm - 948 Nguyễn Văn Quá, Đông Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh
+              14 tháng 1 năm 2024 — Nhà Hàng Tiệc Cưới Ngọc Trâm - 948 Nguyễn Văn Quá, Đông Hưng Thuận, Quận 12, Thành phố Hồ Chí Minh
             </h4>
           </div>
         </div>

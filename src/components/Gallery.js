@@ -8,14 +8,17 @@ import gallery6 from '../assets/images/6.jpg'
 import gallery7 from '../assets/images/7.jpg'
 import gallery8 from '../assets/images/8.jpg'
 import gallery9 from '../assets/images/9.jpg'
+import gallery10 from '../assets/images/10.jpg'
+import gallery11 from '../assets/images/11.jpg'
+import gallery12 from '../assets/images/12.jpg'
 function Gallery () {
   return (
     <div id='gallery' className='section-padding'>
       <div className='container'>
         <div className='row'>
           <div className='col-md-12 mb-30'>
-            <span className='oliven-title-meta'>Gallery</span>
-            <h2 className='oliven-title'>Our Memories</h2>
+            <span className='oliven-title-meta'>Album Hình Cưới</span>
+            <h2 className='oliven-title'>Kỷ niệm của chúng mình</h2>
           </div>
         </div>
       </div>
@@ -164,6 +167,57 @@ function Gallery () {
                   {' '}
                   <img
                     src={gallery9}
+                    className='img-fluid mx-auto d-block'
+                    alt=''
+                  />{' '}
+                </div>
+                <div className='gallery-detail'>
+                  <h4 className='mb-0'>Wedding Party</h4>{' '}
+                </div>
+              </div>
+            </a>
+          </div>
+          <div className='col-md-4 gallery-item party'>
+            <a href='#whenwhere' className='img-zoom'>
+              <div className='gallery-box'>
+                <div className='gallery-img'>
+                  {' '}
+                  <img
+                    src={gallery10}
+                    className='img-fluid mx-auto d-block'
+                    alt=''
+                  />{' '}
+                </div>
+                <div className='gallery-detail'>
+                  <h4 className='mb-0'>Wedding Party</h4>{' '}
+                </div>
+              </div>
+            </a>
+          </div>
+          <div className='col-md-4 gallery-item ceremony'>
+            <a href='#whenwhere' className='img-zoom'>
+              <div className='gallery-box'>
+                <div className='gallery-img'>
+                  {' '}
+                  <img
+                    src={gallery11}
+                    className='img-fluid mx-auto d-block'
+                    alt=''
+                  />{' '}
+                </div>
+                <div className='gallery-detail'>
+                  <h4 className='mb-0'>Wedding Ceremony</h4>{' '}
+                </div>
+              </div>
+            </a>
+          </div>
+          <div className='col-md-4 gallery-item party'>
+            <a href='#whenwhere' className='img-zoom'>
+              <div className='gallery-box'>
+                <div className='gallery-img'>
+                  {' '}
+                  <img
+                    src={gallery12}
                     className='img-fluid mx-auto d-block'
                     alt=''
                   />{' '}

@@ -10,8 +10,8 @@ function Where () {
         <div className='row'>
           <div className='col-md-12 mb-30'>
             {' '}
-            <span className='oliven-title-meta'>The Bride's family</span>
-            <h2 className='oliven-title'>When & Where</h2>{' '}
+            <span className='oliven-title-meta'>Nhà Gái</span>
+            <h2 className='oliven-title'>Thời gian và địa điểm</h2>{' '}
           </div>
         </div>
         <div className='row'>
@@ -21,7 +21,7 @@ function Where () {
               <img src={where1} alt='' />
             </div>
             <div className='content'>
-              <h5>Wedding Ceremony</h5>
+              <h5>Lễ Vu Quy</h5>
               <p>
                 <i className='ti-location-pin'></i> Tư Gia - Tổ 2, ấp Cẩm Sơn, xã Xuân Mỹ, huyện Cẩm Mỹ, tỉnh Đồng Nai
               </p>
@@ -36,7 +36,7 @@ function Where () {
               <img src={where2} alt='' />
             </div>
             <div className='content'>
-              <h5>Weddding Party</h5>
+              <h5>Tiệc Cưới</h5>
               <p>
                 <i className='ti-location-pin'></i> Tư Gia - Tổ 2, ấp Cẩm Sơn, xã Xuân Mỹ, huyện Cẩm Mỹ, tỉnh Đồng Nai
               </p>
@@ -50,8 +50,8 @@ function Where () {
         <div className='row'>
           <div className='col-md-12 mb-30'>
             {' '}
-            <span className='oliven-title-meta'>The Groom's family</span>
-            <h2 className='oliven-title'>When & Where</h2>{' '}
+            <span className='oliven-title-meta'>Nhà Trai</span>
+            <h2 className='oliven-title'>Thời gian và địa điểm</h2>{' '}
           </div>
         </div>
         <div className='row'>
@@ -61,7 +61,7 @@ function Where () {
               <img src={where3} alt='' />
             </div>
             <div className='content'>
-              <h5>Wedding Ceremony</h5>
+              <h5>Lễ Tân Hôn</h5>
               <p>
                 <i className='ti-location-pin'></i> Tư Gia - 140/21B ấp 3, Đông Thạnh, Hóc Môn, Hồ Chí Minh, Việt Nam
               </p>
@@ -76,7 +76,7 @@ function Where () {
               <img src={where4} alt='' />
             </div>
             <div className='content'>
-              <h5>Weddding Party</h5>
+              <h5>Tiệc Cưới</h5>
               <p>
                 <i className='ti-location-pin'></i> Nhà Hàng Tiệc Cưới Ngọc Trâm - 948 Nguyễn Văn Quá, Q.12, Tp.HCM
               </p>

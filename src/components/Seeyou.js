@@ -12,8 +12,8 @@ function Seeyou () {
             <span>
               <i className='ti-heart'></i>
             </span>
-            <h4>Looking forward to see you!</h4>
-            <h3>13.01.2024 & 14.01.2024</h3> 
+            <h4>Mong gặp mọi người vào!</h4>
+            <h3>13.01.2024 và 14.01.2024</h3> 
           </div>
         </div>
       </div>

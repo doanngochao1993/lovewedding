@@ -34,10 +34,10 @@ function Sidebar () {
         <nav className='oliven-main-menu' onClick={closeSideBar}>
           <ul>
             <li>
-              <a href='#home' onClick={closeSideBar}>Home</a>
+              <a href='#home' onClick={closeSideBar}>Nhà</a>
             </li>
             <li>
-              <a href='#couple' onClick={closeSideBar}>Couple</a>
+              <a href='#couple' onClick={closeSideBar}>Đôi Trẻ</a>
             </li>
             {/* <li>
               <a href='#story'>Our Story</a>
@@ -46,10 +46,10 @@ function Sidebar () {
               <a href='#organization' onClick={closeSideBar}>Organization</a>
             </li> */}
             <li>
-              <a href='#gallery' onClick={closeSideBar}>Gallery</a>
+              <a href='#gallery' onClick={closeSideBar}>Ablum Ảnh</a>
             </li>
             <li>
-              <a href='#whenwhere' onClick={closeSideBar}>When & Where</a>
+              <a href='#whenwhere' onClick={closeSideBar}>Thời gian và địa điểm</a>
             </li>
             <li>
               <a href='#rsvp' onClick={closeSideBar}>R.S.V.P</a>
