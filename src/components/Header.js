@@ -14,7 +14,7 @@ function Header () {
               Ngọc Hảo & Ngọc Quý
             </h2>
             <h5 className='animate-box' data-animate-effect='fadeInUp'>
-              14 tháng 1 năm 2024 – Hồ Chí Minh
+              13 và 14 tháng 1 năm 2024 – Hồ Chí Minh
             </h5>
           </div>
         </div>

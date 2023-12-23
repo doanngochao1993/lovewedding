@@ -39,7 +39,7 @@ function Bridegroom () {
                   <h6>
                     Đoàn Ngọc Hảo <i className='ti-heart'></i>
                   </h6>{' '}
-                  <span>Chú Rễ</span>
+                  <span>Chú Rể</span>
                 </div>
               </div>
             </div>
